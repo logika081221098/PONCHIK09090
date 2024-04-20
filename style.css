@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+nav {
+    text-align: center;
+}
+body {
+    background-image: url("");
+}
+a {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: navy;
+    margin: 20px
+}
+p {
+    font-size: 25px;
+    background-color: yellow;
+}
+main p {
+    background-color: aqua;
+}
